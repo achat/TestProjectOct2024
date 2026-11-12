@@ -9,4 +9,8 @@ public class Alpha {
 		
 	}
 
+	public void doSmth() {
+		int x;
+	}
+
 }
