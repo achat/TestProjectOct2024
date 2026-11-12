@@ -2,6 +2,8 @@
 public class Alpha {
 	
 	public void foo() {
+
+		int y = 55;
 		
 	}
 	
